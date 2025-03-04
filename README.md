@@ -1,6 +1,9 @@
 # New Mac Scripts
 Copy of settings for new macs for sanity as .sh scripts. you still need brew.
 
+
+*this script mitigates having to navigate Apple's Dreadful Preferences Application* 
+
 (This readme.md is AI generated from the scripts)
 
 ## macOS Configuration
